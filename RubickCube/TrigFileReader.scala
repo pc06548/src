@@ -1,0 +1,5 @@
+package RubickCube
+
+class TrigFileReader {
+
+}
